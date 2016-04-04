@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+Hello
+
+<<<<<<< HEAD
+Line 1 added
+
+Line 2 added
+
+Line 3 added
+=======
+Hello
+>>>>>>> parent of 5b23ec3... line 1 commit
+=======
+Line 1 added
+>>>>>>> parent of 65b3a5b... line 2 commit
